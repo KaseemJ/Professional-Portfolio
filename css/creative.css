@@ -80,6 +80,20 @@ img::-moz-selection {
   background: transparent;
 }
 
+.img-fluid-journey {
+  height: 275px;
+  width: 500px;
+}
+
+.img-fluid-email {
+  height: 275px;
+  width: 500px;
+}
+
+.img-fluid-friend {
+  height: 275px;
+}
+
 #mainNav {
   border-bottom: 1px solid rgba(33, 37, 41, 0.1);
   background-color: #fff;
